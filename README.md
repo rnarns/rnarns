@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ### Hi 👋, I'm Mingook KIM
+
 ## A passionate IT expert in South Korea
 - 🔭 I’m currently workingon Military
 - 🌱 I’m currently learning Data Science/ML/DL
